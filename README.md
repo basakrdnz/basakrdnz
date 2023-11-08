@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @basakrdnz
+- 👋 Hi, I’m Basak!
 - 👀 I’m interested in sports like tennis and swimming.
-- 🌱 I’m currently learning CSS and Flutter.
+- 🌱 I’m currently learning Next.js .
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me tru my outlook account which name is.. basak.karadeniz0@gmail.com
 
