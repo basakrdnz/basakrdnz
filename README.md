@@ -11,6 +11,7 @@
 - 🎨 I’m also exploring advanced styling techniques with **Sass**, **Tailwind CSS**, and **Shadcn** to create visually appealing and responsive designs.
 - 🔧 With my backend experience, I've worked on connecting RESTful APIs and databases, ensuring seamless data flow and integration across different systems.
 - 🎾 Outside of coding, I enjoy sports like tennis and swimming to keep my body and mind active.
+- 🌐 You can check out my [basak.dev](https://portfolio-react-git-main-basaks-projects.vercel.app) to see some of my work in action.
 - 📫 Feel free to reach out to me via my Outlook account: basak.karadeniz0@gmail.com
 
 <!---
