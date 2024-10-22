@@ -7,7 +7,7 @@
   - **Design & UX:** Figma, focusing on enhancing user experience
   - **Version Control:** GitHub for code management and collaboration
   - **Programming Languages:** C Programming
-- 🚀 I'm currently diving deeper into **Next.js** to leverage server-side rendering and other modern web development techniques.
+- 🚀 I'm embarking on a new journey in developing web interfaces using Vue 3 JS, with a plan to upgrade my skills towards becoming a Full Stack Developer.
 - 🎨 I’m also exploring advanced styling techniques with **Sass**, **Tailwind CSS**, and **Shadcn** to create visually appealing and responsive designs.
 - 🔧 With my backend experience, I've worked on connecting RESTful APIs and databases, ensuring seamless data flow and integration across different systems.
 - 🎾 Outside of coding, I enjoy sports like tennis and swimming to keep my body and mind active.
