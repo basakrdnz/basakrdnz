@@ -1,5 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Developing modern, user-focused web interfaces and strengthening my software testing skills.<br>🧑‍🤝‍🧑 I’m looking to collaborate on:<br>Projects that prioritize clean architecture, accessibility, and scalable front-end solutions.<br>🤝 I’m looking for help with:<br>Expanding my experience in test automation and transitioning into my next front-end or QA role.<br>🌱 I’m currently learning:<br>Advanced front-end development patterns, testing methodologies, and best practices in application quality.<br>💬 Ask me about:<br>Frontend development, UI/UX optimization, CSS strategies, and efficient testing workflows.<br>⚡ Fun fact:<br>I bring the same discipline from sports like tennis and swimming into my development and learning routine.
+# 👋 About Me
+
+🔨 **I'm currently working on:**
+Building a social mobile app from scratch — product research, PRD, roadmap, and full Flutter/Firebase development. Solo.
+
+🤝 **I'm looking to collaborate on:**
+Mobile or product-focused projects where both design thinking and technical execution matter.
+
+🧠 **I'm currently learning:**
+Product management, business analysis, and deepening my Flutter expertise.
+
+💬 **Ask me about:**
+Flutter, Firebase, product roadmapping, BRD/PRD writing, or going from 0 to 1 on a mobile app.
+
+⚡ **Fun fact:**
+I studied Computer Engineering but what actually excites me is figuring out *what* to build, not just *how*.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/basakkaradeniz)
